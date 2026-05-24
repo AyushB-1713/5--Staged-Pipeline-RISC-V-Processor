@@ -12,11 +12,12 @@ iv)Memory Access
 v)Write Back
 
 Pipeline registers between all stages
-Register file with 32 registers
-ALU
-Immediate generator
-Main control unit
-Forwarding unit for data hazards
+
+Register file with 32 registers,
+ALU,
+Immediate generator,
+Main control unit,
+Forwarding unit for data hazards,
 Simple instruction memory for simulation
 
 Supported Instructions
